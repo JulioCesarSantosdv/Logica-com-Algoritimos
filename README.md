@@ -29,7 +29,7 @@ Meu primeiro contato com programação foi em 2014, durante um curso técnico de
 ## Como Utilizar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos.git
    
 2. Navegue até o diretório desejado:
    ```bash
