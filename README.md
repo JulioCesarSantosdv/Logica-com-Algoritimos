@@ -33,7 +33,7 @@ Meu primeiro contato com programação foi em 2014, durante um curso técnico de
    
 2. Navegue até o diretório desejado:
    ```bash
-   cd nome-do-repositorio/capitulo-1
+   cd Logica-com-Algoritimos/Capítulo 03 - Programação Com Sequência
 
 3.Execute os exemplos utilizando sua linguagem de programação preferida.
 
