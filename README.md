@@ -13,13 +13,16 @@ Meu primeiro contato com programação foi em 2014, durante um curso técnico de
 
 ## Estrutura do Repositório
 
-- **Capítulo 1: Conceitos Básicos**
-- **Capítulo 2: Tipos de Dados e Operadores**
-- **Capítulo 3: Estruturas de Controle**
-- **Capítulo 4: Modularização**
-- **Capítulo 5: Vetores e Matrizes**
-- **Capítulo 6: Algoritmos de Ordenação e Busca**
-- **Capítulo 7: Programação Estruturada**
+- **Capítulo 3: Programação com Sequência**
+- **Capítulo 4: Programação com Decisão**
+- **Capítulo 5: Programação com Laços**
+- **Capítulo 6: Estrutura de Dados Homogêneas de Uma Dimensão**
+- **Capítulo 7: Aplicação Básica com Matrizes de Uma Dimensão**
+- **Capítulo 8: Estrutura de Dados Homogêneas de Duas Dimensões**
+- **Capítulo 9: Estrutura de Dados Heterogêneas**
+- **Capítulo 10: Subprogramas**
+- **Capítulo 11: Programação Orientada a Objetos**
+- **Capítulo 12: Aplicação Básica de Programação Orientada a Objetos**
 
 ## Cada diretório contém:
 - Descrição do exercício.
