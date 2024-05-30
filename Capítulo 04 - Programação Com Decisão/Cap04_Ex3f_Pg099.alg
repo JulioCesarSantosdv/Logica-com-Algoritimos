@@ -3,7 +3,7 @@ algoritmo "Algoritmo OrdenacaoCrescente"
                      
 //Ler três valores representados pelas variáveis A, B e C e apresentar os
 //valores lidos dipostos em ordem crescente. Dica: utilizar tomada de decisão
-//sequencial e as ideias trabalhadas nos exercícios "g"propriedade distributiva)
+//sequencial e as ideias trabalhadas nos exercícios "g"(propriedade distributiva)
 //e "f" (troca de valores) do capítulo 3.
 
 var
