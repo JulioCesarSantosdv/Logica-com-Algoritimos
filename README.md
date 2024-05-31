@@ -13,9 +13,9 @@ Meu primeiro contato com programação foi em 2014, durante um curso técnico de
 
 ## Estrutura do Repositório
 
-- **Capítulo 3: Programação com Sequência**
-- **Capítulo 4: Programação com Decisão**
-- **Capítulo 5: Programação com Laços**
+- **Capítulo 3: Programação com Sequência(https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2003%20-%20Programa%C3%A7%C3%A3o%20Com%20Sequ%C3%AAncia)**
+- **Capítulo 4: Programação com Decisão (https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2004%20-%20Programa%C3%A7%C3%A3o%20Com%20Decis%C3%A3o)**
+- **Capítulo 5: Programação com Laços(https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2005%20-%20Programa%C3%A7%C3%A3o%20com%20La%C3%A7os)**
 - **Capítulo 6: Estrutura de Dados Homogêneas de Uma Dimensão**
 - **Capítulo 7: Aplicação Básica com Matrizes de Uma Dimensão**
 - **Capítulo 8: Estrutura de Dados Homogêneas de Duas Dimensões**
