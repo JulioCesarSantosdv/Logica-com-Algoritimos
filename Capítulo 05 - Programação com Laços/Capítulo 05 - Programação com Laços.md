@@ -3,7 +3,7 @@
 
 <h2>Exercícios</h2>
 
-👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2006%20-%20Estruturas%20de%20Dados%20Homog%C3%AAneos%20de%20Uma%20Dimens%C3%A3o)
+👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2005%20-%20Programa%C3%A7%C3%A3o%20com%20La%C3%A7os)
 
 <h3>a) Quadrados De 15 a 200</h3>
 <strong>Descrição:</strong><br>
