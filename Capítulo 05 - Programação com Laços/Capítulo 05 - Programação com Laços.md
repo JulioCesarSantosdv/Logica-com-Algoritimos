@@ -56,7 +56,7 @@ Use a tecnica de laço de repetição, em que o valor da base deve ser multiplic
 Escrever um programa que apresente os valores de sequência numérica de Fibonacci ( também conhecido por "Proporção Aurea") até 
 o décimo quinto termo. A sequencia Fibonacci é formada por 0,1,2,3,5,8,13,21,34,55,89,144,233,377,...
 etc, otendo-se o próximo termo apartir da soma do termo atual com o anterior sucessivamente até o infinito se a sequência
-não for interrompida.Utilize para este exercício  as variáveis ATUAL,ANTERIOR e PRÓXIMO.<br>
+não for interrompida.Utilize para este exercício  as variáveis <i>ATUAL,ANTERIOR e PRÓXIMO</i>.<br>
 
 <h3>j) Conversao Celsius Fahrenheit</h3>
 <strong>Descrição:</strong><br>
@@ -69,8 +69,8 @@ Escrever um programa que calcule e apresente o somatório do número de grãos d
 obedecendo á seguinte regra: colocar um grão de trigo no primeiro quadro e nos quadros seguintes o dobro do quadro anterior.
 Ou seja, no primeiro quadro coloca-se um grão, no segundo quadro colocam-se dois grãos (neste momento têm-se três grãos), no
 terceiro quadro colocam-se quatro grãos(tendo neste momento sete grãos), no quarto quadro colocam-se oito grãos (tendo-se então
-15 grãos) até atingir o sexagésimo quarto quadro <strong>(este exercício foi baseado numa situação exposta no capítulo 16 do livro
-" O HOMEM QUE CALCULAVA" de Malba Tahan, da Editora Record)</strong>.<br>
+15 grãos) até atingir o sexagésimo quarto quadro<br> <strong>(este exercício foi baseado numa situação exposta no capítulo 16 do livro
+<i>"O HOMEM QUE CALCULAVA" de Malba Tahan, da Editora Record</i>)</strong>.<br>
 
 
 ![homen](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/assets/64735040/e925da70-bb6a-435e-a729-c30d3b92eb7f)
@@ -80,9 +80,9 @@ terceiro quadro colocam-se quatro grãos(tendo neste momento sete grãos), no qu
 <strong>Descrição:</strong><br>
 Elaborar um programa que leia quinze valores numéricos inteiros e no final apresente o somatório da fatorial de cada valor lido.
 
-<strong>Para entender o problema proposto considere que, do ponto de vista matematico, fatorial é o produto dos números naturais
+<strong><i>Para entender o problema proposto considere que, do ponto de vista matematico, fatorial é o produto dos números naturais
 desde 1 até o limite informado, neste caso 15. Assim sendo, a fatorial do valor 15, representada matemáticamente com 15!, é a 
-multiplicação de 1x2x3x4x5x6x7x8x9x10x11...15</strong><br>
+multiplicação de 1x2x3x4x5x6x7x8x9x10x11...15</strong></i><br>
 
 <h3>m) Soma Media</h3>
 <strong>Descrição:</strong><br>
@@ -120,8 +120,8 @@ o maior e o menor valores informados pelo usuário.<br>
 <strong>Descrição:</strong><br>
 Elaborar um programa que apresente o resultado inteiro da divisão de dois números quaisquer, representando o dividendo e o divisor da
 divisão a ser processada.<br> 
-<i>Sugestão: para elaboração do programa não utilize o operador aritmético de divisão de quociente inteiro.Use uma solução baseada em laço de repetição. O programa deve apresentar como resultado(quoeficiente) quantas vezes o 
-divisor cabe no dividendo</i>.
+<strong><i>Sugestão: para elaboração do programa não utilize o operador aritmético de divisão de quociente inteiro.Use uma solução baseada em laço de repetição. O programa deve apresentar como resultado(quoeficiente) quantas vezes o 
+divisor couber no dividendo</strong></i>.
 
 
 
