@@ -69,8 +69,12 @@ Escrever um programa que calcule e apresente o somatório do número de grãos d
 obedecendo á seguinte regra: colocar um grão de trigo no primeiro quadro e nos quadros seguintes o dobro do quadro anterior.
 Ou seja, no primeiro quadro coloca-se um grão, no segundo quadro colocam-se dois grãos (neste momento têm-se três grãos), no
 terceiro quadro colocam-se quatro grãos(tendo neste momento sete grãos), no quarto quadro colocam-se oito grãos (tendo-se então
-15 grãos) até atingir o sexagésimo quarto quadro (este exercício foi baseado numa situação exposta no capítulo 16 do livro
-" O HOMEM QUE CALCULAVA" de Malba Tahan, da Editora Record).<br>
+15 grãos) até atingir o sexagésimo quarto quadro <strong>(este exercício foi baseado numa situação exposta no capítulo 16 do livro
+" O HOMEM QUE CALCULAVA" de Malba Tahan, da Editora Record)</strong>.<br>
+
+
+![homen](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/assets/64735040/e925da70-bb6a-435e-a729-c30d3b92eb7f)
+
 
 <h3>l) Somatorio Fatoriais 15</h3>
 <strong>Descrição:</strong><br>
