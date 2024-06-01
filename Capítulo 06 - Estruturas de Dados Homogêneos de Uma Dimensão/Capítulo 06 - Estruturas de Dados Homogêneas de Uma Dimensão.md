@@ -5,7 +5,7 @@
 <h2>Exercícios</h2>
 
 <h3>a) Calculadora Simples</h3>
-+Descrição: Elaborar um programa que realize operações básicas de uma calculadora.<br>
+- Descrição: Elaborar um programa que realize operações básicas de uma calculadora.<br>
 +Arquivo: calculadora_simples.alg<br>
 <h3>b) Ordenação de Vetor</h3>
 +Descrição: Implementar um algoritmo de ordenação de vetor.<br>
