@@ -51,7 +51,7 @@ elevado a E, em que B é o valor da base  e E o valor do expoente. Considere ape
 ou seja. de valores naturais.Sugestão: não utilize o formato "base * expoente * expoente", pois é uma solução muito trivial.
 Use a tecnica de laço de repetição, em que o valor da base deve ser multiplicado o número de vezes determinado no expoente.<br>
 
-<h3>i) Sequenciade Fibonacci</h3>
+<h3>i) Sequencia de Fibonacci ("Proporção Aurea")</h3>
 <strong>Descrição:</strong><br>
 Escrever um programa que apresente os valores de sequência numérica de Fibonacci ( também conhecido por "Proporção Aurea") até 
 o décimo quinto termo. A sequencia Fibonacci é formada por 0,1,2,3,5,8,13,21,34,55,89,144,233,377,...
