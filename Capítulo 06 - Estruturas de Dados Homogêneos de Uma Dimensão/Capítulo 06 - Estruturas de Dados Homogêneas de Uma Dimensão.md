@@ -4,6 +4,9 @@
 
 <h2>Exercícios</h2>
 
+👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2006%20-%20Estruturas%20de%20Dados%20Homog%C3%AAneos%20de%20Uma%20Dimens%C3%A3o)
+
+
 <h3>a) Leitura e Apresentação de 10 Nomes</h3>
 <strong>Descrição:</strong><br>
 Elaborar um programa que efetue a leitura de 10 nomes de pessoas em uma matriz A do tipo vetor e apresente-os em seguida.<br>
@@ -167,3 +170,5 @@ armazenados na matriz.<br>
 
 <h2>Contribuindo</h2>
 Sinta-se à vontade para contribuir com mais exercícios ou melhorias nos algoritmos existentes! Basta fazer um fork deste repositório, fazer suas alterações e enviar uma solicitação de pull.
+
+
