@@ -3,7 +3,7 @@
 **Este diretório contém algoritmos desenvolvidos para exercícios do Capítulo 06 do livro, focado em Estruturas de Dados Homogêneas de Uma Dimensão.**
 
 <h2>Exercícios</h2>
-+a) Calculadora Simples
++ Calculadora Simples
 <strong>Descrição:</strong> Elaborar um programa que realize operações básicas de uma calculadora.
 Arquivo: calculadora_simples.alg
 +b) Ordenação de Vetor
