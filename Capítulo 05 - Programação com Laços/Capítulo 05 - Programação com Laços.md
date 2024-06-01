@@ -119,9 +119,10 @@ o maior e o menor valores informados pelo usuário.<br>
 <h3>s) Divisao Sem Divisao </h3>
 <strong>Descrição:</strong><br>
 Elaborar um programa que apresente o resultado inteiro da divisão de dois números quaisquer, representando o dividendo e o divisor da
-divisão a ser processada. Sugestão: para elaboração do programa não utilize o operador aritmético de divisão de quociente
-inteiro.Use uma solução baseada em laço de repetição. O programa deve apresentar como resultado(quoeficiente) quantas vezes o 
-divisor cabe no dividendo.<br>
+divisão a ser processada.<br> 
+<i>Sugestão: para elaboração do programa não utilize o operador aritmético de divisão de quociente inteiro.Use uma solução baseada em laço de repetição. O programa deve apresentar como resultado(quoeficiente) quantas vezes o 
+divisor cabe no dividendo</i>.
+
 
 
 
