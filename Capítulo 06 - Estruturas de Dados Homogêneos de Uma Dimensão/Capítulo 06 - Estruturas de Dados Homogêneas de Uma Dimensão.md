@@ -4,15 +4,13 @@
 
 <h2>Exercícios</h2>
 
-<h3>a) Calculadora Simples</h3>
-*Descrição: Elaborar um programa que realize operações básicas de uma calculadora.<br>
-*Arquivo: calculadora_simples.alg<br>
-<h3>b) Ordenação de Vetor</h3>
-*Descrição: Implementar um algoritmo de ordenação de vetor.<br>
-*Arquivo: ordenacao_vetor.alg<br>
-<h3>c)Contagem de Números Pares</h3> 
-*Descrição: Escrever um programa que conte e apresente o total de números pares em uma matriz.<br>
-*Arquivo: contagem_pares.alg<br>
+<h3>a) Leitura e Apresentacao_de 10Nomes</h3>
+<strong>Descrição:</strong><br>
+Elaborar um programa que efetue a leitura de 10 nomes de pessoas em uma matriz A do tipo vetor e apresente-os em seguida.<br>
+
+<h3>b)Multiplicar Elementos do Vetor por 3</h3>
+<strong>Descrição:</strong><br>
+Elaborar um programa que leia oito elementos inteiros em uma matriz A do tipo vetor.Construir uma matriz B de mesma dimensão com os elementos da matriz A multiplicados por 3.O elemento B[1] deve ser implicado pelo elemento A[1]*3, o elemento B[2] implicado pelo elemento A[2]*3 e assim por diante, até 8.Apresentar a matriz B.<br>
 
 <h2>Contribuindo</h2>
 Sinta-se à vontade para contribuir com mais exercícios ou melhorias nos algoritmos existentes! Basta fazer um fork deste repositório, fazer suas alterações e enviar uma solicitação de pull.
