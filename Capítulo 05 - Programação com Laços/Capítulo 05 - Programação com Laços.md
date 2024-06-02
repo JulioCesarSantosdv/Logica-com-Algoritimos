@@ -87,11 +87,16 @@ terceiro quadro colocam-se quatro grãos(tendo neste momento sete grãos), no qu
 
 <h3>l) Somatorio Fatoriais 15</h3>
 <strong>Descrição:</strong><br>
-Elaborar um programa que leia quinze valores numéricos inteiros e no final apresente o somatório da fatorial de cada valor lido.
+Elaborar um programa que leia quinze valores numéricos inteiros e no final apresente o somatório da fatorial de cada valor lido.<br>
 
 <strong><i>Para entender o problema proposto considere que, do ponto de vista matematico, fatorial é o produto dos números naturais
 desde 1 até o limite informado, neste caso 15. Assim sendo, a fatorial do valor 15, representada matemáticamente com 15!, é a 
 multiplicação de 1x2x3x4x5x6x7x8x9x10x11...15</strong></i><br>
+
+👉Fatorial | Matemática | Análise Combinatória<br>
+🎥(https://www.youtube.com/watch?v=ms2PulxZV3M&t=107s)<br>
+👉Linguagem C - Calculando o Fatorial de um número lido pelo usuário - 067<br>
+🎥https://www.youtube.com/watch?v=_gJMYzgAxMg<br>
 
 <h3>m) Soma Media</h3>
 <strong>Descrição:</strong><br>
