@@ -55,8 +55,8 @@ Use a tecnica de laço de repetição, em que o valor da base deve ser multiplic
 <strong>Descrição:</strong><br>
 Escrever um programa que apresente os valores de sequência numérica de Fibonacci ( também conhecido por "Proporção Aurea") até 
 o décimo quinto termo. A sequencia Fibonacci é formada por 0,1,2,3,5,8,13,21,34,55,89,144,233,377,...
-etc, otendo-se o próximo termo apartir da soma do termo atual com o anterior sucessivamente até o infinito se a sequência
-não for interrompida.Utilize para este exercício  as variáveis <i>ATUAL,ANTERIOR e PRÓXIMO</i>.<br><br>
+etc, obtendo-se o próximo termo apartir da soma do termo atual com o anterior sucessivamente até o infinito se a sequência
+não for interrompida.Utilize para este exercício  as variáveis <strong><i>ATUAL,ANTERIOR e PRÓXIMO</i></strong>.<br><br>
 👉Assista aqui o vídeo sobre a "SEQUÊNCIA FIBONACCI"<br>
 🎥(https://www.youtube.com/watch?v=NIkJFjaWgi8)<br>
 👉Sequência Fibonacci<br>
