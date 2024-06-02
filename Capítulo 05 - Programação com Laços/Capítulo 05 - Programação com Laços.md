@@ -73,6 +73,7 @@ Ou seja, no primeiro quadro coloca-se um grão, no segundo quadro colocam-se doi
 terceiro quadro colocam-se quatro grãos(tendo neste momento sete grãos), no quarto quadro colocam-se oito grãos (tendo-se então
 15 grãos) até atingir o sexagésimo quarto quadro<br> <strong>(este exercício foi baseado numa situação exposta no capítulo 16 do livro
 <i>"O HOMEM QUE CALCULAVA" de Malba Tahan, da Editora Record</i>)</strong>.<br>
+Aposta: Grãos de trigo no tabuleiro de xadrez! 👉(https://www.youtube.com/watch?v=ZMnDaP8Txug)](https://www.youtube.com/watch?v=ZMnDaP8Txug)
 
 
 ![homen](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/assets/64735040/e925da70-bb6a-435e-a729-c30d3b92eb7f)
