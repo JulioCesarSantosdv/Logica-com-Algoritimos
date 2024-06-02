@@ -125,6 +125,11 @@ a entrada do nome, da largura e do comprimento de um determinado cômodo. Em seg
 também uma mensagem solicitando ao usuário a confirmação de continuar calculando novos cômodos. Caso o usuário responda "NÃO",
 o programa deve apresentar o valor total acumulado da área residencial.<br>
 
+👉RÁPIDO E FÁCIL | ÁREA DO RETÂNGULO<br>
+🎥https://www.youtube.com/watch?v=sORRqaz6ml8<br>
+👉Area do Retângulo<br>
+🎥https://www.youtube.com/shorts/7f_lR6KyuUE<br>
+
 <h3>r) Maior Menor Valores</h3>
 <strong>Descrição:</strong><br>
 Elaborar um programa que leia valores positivos inteiros até que um valor negativo seja informado.Ao final devem ser apresentados
