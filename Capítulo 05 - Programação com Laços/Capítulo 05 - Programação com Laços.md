@@ -57,7 +57,9 @@ Escrever um programa que apresente os valores de sequência numérica de Fibonac
 o décimo quinto termo. A sequencia Fibonacci é formada por 0,1,2,3,5,8,13,21,34,55,89,144,233,377,...
 etc, otendo-se o próximo termo apartir da soma do termo atual com o anterior sucessivamente até o infinito se a sequência
 não for interrompida.Utilize para este exercício  as variáveis <i>ATUAL,ANTERIOR e PRÓXIMO</i>.<br>
+Assista aqui o vídeo sobre a "SEQUÊNCIA FIBONACCI"👉(https://www.youtube.com/watch?v=NIkJFjaWgi8)
 
+ 
 <h3>j) Conversao Celsius Fahrenheit</h3>
 <strong>Descrição:</strong><br>
 Elaborar um programa que apresente os valores de conversão de Graus Celsius em graus Fahrenheit, de dez em dez graus,iniciando
