@@ -77,7 +77,7 @@ terceiro quadro colocam-se quatro grãos(tendo neste momento sete grãos), no qu
 15 grãos) até atingir o sexagésimo quarto quadro<br> <strong>(este exercício foi baseado numa situação exposta no capítulo 16 do livro
 <i>"O HOMEM QUE CALCULAVA" de Malba Tahan, da Editora Record</i>)</strong>.<br><br>
 👉Jogo de xadrez - Prof. Denis Rocha - O Homem que Calculava #3 Malba Tahan<br> 
-🎥(https://www.youtube.com/watch?v=ZMnDaP8Txug)](https://www.youtube.com/watch?v=ZMnDaP8Txug)
+🎥(https://www.youtube.com/watch?v=ZMnDaP8Txug)](https://www.youtube.com/watch?v=ZMnDaP8Txug)<br> 
 👉Aposta: Grãos de trigo no tabuleiro de xadrez!<br> 
 🎥 https://www.youtube.com/watch?v=96DoMyliQb0<br>
 
