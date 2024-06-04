@@ -66,7 +66,7 @@ Efetuar a leitura de um valor numérico inteiro  e apresentar o resultado do val
 Leia dois valores numéricos inteiros (representados pelas variáveis A e B) e apresentar o resultado do quadrado da diferença
 do primeiro valor (variável A) em relação ao segundo valor (variável B).<br>
 
-<h3>k) Algoritmo Conversao Dolar Para Real</h3>
+<h3>k) Algoritmo Conversao Real Para Dólar</h3>
 <strong>Descrição:</strong><br>
 Elabore um algoritmo que apresente o valor da conversão em real (R$) de um valor lido em dólar (US$).O algoritmo deve solicitar 
 o valor da cotação do dólar e também a quantidade de dólares disponível como o usuário.<br>
