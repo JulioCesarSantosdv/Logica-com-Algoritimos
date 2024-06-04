@@ -3,7 +3,7 @@
 
 <h2>Exercícios</h2>
 
-👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2005%20-%20Programa%C3%A7%C3%A3o%20com%20La%C3%A7os)
+👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2003%20-%20Programa%C3%A7%C3%A3o%20Com%20Sequ%C3%AAncia)
 
 <h3>b) Algoritmo ConversorCelsiusFahrenheit</h3>
 <strong>Descrição:</strong><br>
