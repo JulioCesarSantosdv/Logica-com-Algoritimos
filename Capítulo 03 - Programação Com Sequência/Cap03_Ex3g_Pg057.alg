@@ -1,4 +1,4 @@
-algoritmo "Algoritmo TrocaValores"
+algoritmo "AlgoritmoCombinacesdeVariáveis"
           "Cap03_Ex3g_Pg057"
 //Leia quatro valores numéricos inteiros e apresentar o resultado
 //das adições e das multiplicações utilizando o mesmo raciocínio
