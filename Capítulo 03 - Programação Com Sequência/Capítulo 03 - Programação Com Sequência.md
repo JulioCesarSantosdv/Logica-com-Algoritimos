@@ -7,9 +7,7 @@
 
 <h3>b) Algoritmo ConversorCelsiusFahrenheit</h3>
 <strong>Descrição:</strong><br>
-Leia uma temperatura em graus Fahrenheit e apresente-a convertida
-em graus Celsius. A fórmula de conversão é C<-((F-32)*5/9),
-sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.<br>
+Leia uma temperatura em graus Fahrenheit e apresente-a convertida em graus Celsius. A fórmula de conversão é:  <strong>C<-((F-32)*5/9)</strong>,sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.<br>
 
 <h3>c) Calcula Volume de Lata De Oleo</h3>
 <strong>Descrição:</strong><br>
