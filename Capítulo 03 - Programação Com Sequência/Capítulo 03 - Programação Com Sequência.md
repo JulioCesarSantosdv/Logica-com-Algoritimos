@@ -5,18 +5,18 @@
 
 👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2003%20-%20Programa%C3%A7%C3%A3o%20Com%20Sequ%C3%AAncia)
 
-<h3>b) Algoritmo ConversorCelsiusFahrenheit</h3>
+<h3>b) Algoritmo Conversor Celsius Fahrenheit</h3>
 <strong>Descrição:</strong><br>
 Leia uma temperatura em graus Fahrenheit e apresente-a convertida em graus Celsius. A fórmula de conversão é:<br>  
 <strong><i>C<-((F-32)*5/9)</i></strong>,sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.<br>
 
-<h3>c) Calcula Volume de Lata De Oleo</h3>
+<h3>c) Calcula Volume de Lata De Óleo</h3>
 <strong>Descrição:</strong><br>
 Faça um algoritmo que calcule e apresente o valor do volume de uma
 lata de óleo, utilizando a fórmula:<br> 
 <strong><i>VOLUME <- 3.14159 * Raio ^ 2 * Altura</i></strong>.<br>
 
-<h3>d) Algoritmo CalculoLitrosCombustivel</h3>
+<h3>d) Algoritmo Cálculo Litros Combustível</h3>
 <strong>Descrição:</strong><br>
 Efetuar o cálculo da quantidade de litros de combustível gasta em uma viágem, utilizando um automóvel que faz 12 quilômetros por litro.
 Para obter o cálculo, o usuário deve fornecer o tempo gasto (variável TEMPO) e a velocidade média
