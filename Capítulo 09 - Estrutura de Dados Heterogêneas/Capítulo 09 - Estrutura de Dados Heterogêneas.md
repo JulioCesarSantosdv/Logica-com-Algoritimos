@@ -77,3 +77,7 @@ salarios ABAIXO de $1.000.<br>
 salarios IGUAIS a $1.000.<br>
 
 <strong>g)</strong>Sair do programa de cadastro.<br>
+
+
+
+<i>Obs.: Os códigos não estão funcionais mas eu tentei :(</i>
