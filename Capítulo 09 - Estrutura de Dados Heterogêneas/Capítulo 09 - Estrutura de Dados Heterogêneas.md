@@ -3,7 +3,7 @@
 
 <h2>Exercícios</h2>
 
-👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2005%20-%20Programa%C3%A7%C3%A3o%20com%20La%C3%A7os)
+👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2009%20-%20Estrutura%20de%20Dados%20Heterog%C3%AAneas)
 
 <h3>1) Gerenciar Dados de Uma Agenda</h3>
 <strong>Descrição:</strong><br>
