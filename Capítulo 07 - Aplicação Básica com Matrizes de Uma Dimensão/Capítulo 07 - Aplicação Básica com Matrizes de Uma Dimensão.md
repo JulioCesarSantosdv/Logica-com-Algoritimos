@@ -32,7 +32,7 @@ Escrever um programa que leia duas matrizes A e B do tipo vetor com elementos do
 
 <h3>f) Matriz ao Cubo e Pesquisa Sequencial</h3>
 <strong>Descrição:</strong><br>
-Elaborar um programa que leia 30 elementos numéricos reais em uma matriz A do tipo vetor.Construir uma matriz B de mesmo tipo, observando a seguinte LEI DE FORMAÇÃO: todo elemento da matriz B deve ser o cubo do elemento correspondente da matriz A. Montar o trecho de pesquisa sequencial para pesquisar os elementos armazenados na matriz B.<br><br>
+Elaborar um programa que leia 30 elementos numéricos reais em uma matriz A do tipo vetor.Construir uma matriz B de mesmo tipo, observando a seguinte LEI DE FORMAÇÃO: todo elemento da matriz B deve ser o cubo do elemento correspondente da matriz A. Montar o trecho de <strong>PESQUISA SEQUENCIAL</strong> para pesquisar os elementos armazenados na matriz B.<br><br>
 
 👉  Busca Sequencial<br>
 🎥  [Busca Sequencial/Linear](https://www.youtube.com/watch?v=)
