@@ -3,7 +3,7 @@
 
 <h2>Exercícios</h2>
 
-👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2005%20-%20Programa%C3%A7%C3%A3o%20com%20La%C3%A7os)
+👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2007%20-%20Aplica%C3%A7%C3%A3o%20B%C3%A1sica%20com%20Matrizes%20de%20Uma%20Dimens%C3%A3o)
 
 <h3>a) Leitura e Apresentacao de 12 Numeros</h3>
 <strong>Descrição:</strong><br>
