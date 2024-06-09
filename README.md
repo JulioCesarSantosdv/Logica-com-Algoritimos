@@ -18,7 +18,7 @@ Meu primeiro contato com programação foi em 2014, durante um curso técnico de
 - **[Capítulo 5: Programação com Laços](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/blob/main/Cap%C3%ADtulo%2005%20-%20Programa%C3%A7%C3%A3o%20com%20La%C3%A7os/Cap%C3%ADtulo%2005%20-%20Programa%C3%A7%C3%A3o%20com%20La%C3%A7os.md)**
 - **[Capítulo 6: Estrutura de Dados Homogêneas de Uma Dimensão](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/blob/main/Cap%C3%ADtulo%2006%20-%20Estruturas%20de%20Dados%20Homog%C3%AAneos%20de%20Uma%20Dimens%C3%A3o/Cap%C3%ADtulo%2006%20-%20Estruturas%20de%20Dados%20Homog%C3%AAneas%20de%20Uma%20Dimens%C3%A3o.md)**
 - **[Capítulo 7: Aplicação Básica com Matrizes de Uma Dimensão](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/blob/main/Cap%C3%ADtulo%2007%20-%20Aplica%C3%A7%C3%A3o%20B%C3%A1sica%20com%20Matrizes%20de%20Uma%20Dimens%C3%A3o/Cap%C3%ADtulo%2007%20-%20Aplica%C3%A7%C3%A3o%20B%C3%A1sica%20com%20Matrizes%20de%20Uma%20Dimens%C3%A3o.md)**
-- **[Capítulo 8: Estrutura de Dados Homogêneas de Duas Dimensões](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2008%20-%20Estrutura%20de%20Dados%20Homog%C3%AAneas%20de%20Duas%20Dimens%C3%B5es)**
+- **[Capítulo 8: Estrutura de Dados Homogêneas de Duas Dimensões](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/blob/main/Cap%C3%ADtulo%2008%20-%20Estrutura%20de%20Dados%20Homog%C3%AAneas%20de%20Duas%20Dimens%C3%B5es/Cap%C3%ADtulo%2008%20-%20Estrutura%20de%20Dados%20Homog%C3%AAneas%20de%20Duas%20Dimens%C3%B5es.md)**
 - **Capítulo 9: Estrutura de Dados Heterogêneas**
 - **Capítulo 10: Subprogramas**
 - **Capítulo 11: Programação Orientada a Objetos**
