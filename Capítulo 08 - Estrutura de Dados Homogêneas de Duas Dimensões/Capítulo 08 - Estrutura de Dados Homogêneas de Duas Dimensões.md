@@ -45,7 +45,7 @@ por 2 e a segunda coluna formada pelos elementos da matriz B subtraídos de 5.
 Apresentar separadamente as matrizes.<br>
 
 
-<h3>f) Matriz_Fatoriais</h3>
+<h3>f) Matriz Fatoriais</h3>
 <strong>Descrição:</strong><br>
 Elaborar um programa que leia uma matriz A de duas dimensões com cinco linhas
 linhas e quatro colunas. Construir uma matriz B da mesma dimensão, em que
@@ -65,7 +65,7 @@ da matriz A.Apresentar ao final as matrizes A e B.<br>
 Elaborar um programa que leia que leia uma matriz A do tipo inteira de duas
 dimensões com cinco linhas e cinco colunas. Construir uma matriz B de mesma
 dimensão, em que cada elemento seja o dobro de cada elemento correspondente
-da matriz A, com execeçõa dos valores situados na diagonal principal
+da matriz A, com execeção dos valores situados na diagonal principal
 (posições B[1,1],B[2,2],B[3,3],B[4,4] e B[5,5], os quais devem ser o triplo
 de cada elemento correspondente da matriz A. Apresentar ao final a matriz B.<br>
 
