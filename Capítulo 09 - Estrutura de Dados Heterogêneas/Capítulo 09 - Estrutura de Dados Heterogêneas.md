@@ -8,7 +8,8 @@
 ⚠️<strong><tt>Lembrete:<br>
 Um procedimento é um subprograma que pode ser com parâmetro(argumento) ou sem que <i>não retorna valor</i>. Parâmetros são variáveis declaradas dentro dos parênteses.
 Uma função é um subprograma que pode ser com parâmetro(argumento) ou sem que <i>retorna valor</i>.
-Essas duas estruturas tem por objetivo reutilizar códigos que se repetem e assim modularizar programas.</tt></strong>
+Essas duas estruturas tem por objetivo reutilizar códigos que se repetem e assim modularizar programas.</tt></strong><br>
+🎥[Procedimento e Função](https://www.youtube.com/watch?v=1U28x3STVos)
 
 <h3>1) Gerenciar Dados de Uma Agenda</h3>
 <strong>Descrição:</strong><br>
