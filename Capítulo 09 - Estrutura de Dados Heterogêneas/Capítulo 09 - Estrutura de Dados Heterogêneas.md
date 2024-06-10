@@ -5,6 +5,11 @@
 
 👉 [Clique aqui para acessar os códigos](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/main/Cap%C3%ADtulo%2009%20-%20Estrutura%20de%20Dados%20Heterog%C3%AAneas)
 
+⚠️<strong><tt>Lembrete:<br>
+Um procedimento é um subprograma que pode ser com parâmetro(argumento) ou sem que <i>não retorna valor</i>. Parâmetros são variáveis declaradas dentro dos parênteses.
+Uma função é um subprograma que pode ser com parâmetro(argumento) ou sem que <i>retorna valor</i>.
+Essas duas estruturas tem por objetivo reutilizar códigos que se repetem e assim modularizar programas.</tt></strong>
+
 <h3>1) Gerenciar Dados de Uma Agenda</h3>
 <strong>Descrição:</strong><br>
 Elaborar um programa que efetue o gerenciamento dos dados de dez registros de uma agenda que contenha nome, endereços e telefones,defina a estrutura de registro apropriada, o diagrama de blocos e a codificação de um programa que,por meio de um menu de opções, execute as seguintes etapas:<br><br>
